@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpeechToText.iml" filepath="$PROJECT_DIR$/SpeechToText.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RnD.iml" filepath="$PROJECT_DIR$/RnD.iml" />
     </modules>
   </component>
 </project>
